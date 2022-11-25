@@ -1,0 +1,4 @@
+﻿  UnitTest1.cpp
+C:\Student\PR8.2.IT\PR8.2.IT\PR8.2.IT.cpp(40,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Student\PR8.2.IT\UnitTest1\UnitTest1.cpp(17,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  UnitTest1.vcxproj -> C:\Student\PR8.2.IT\x64\Debug\UnitTest1.dll
